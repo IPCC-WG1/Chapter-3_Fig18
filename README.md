@@ -1,5 +1,7 @@
 BLOCKING
 ========
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6778109.svg)](https://doi.org/10.5281/zenodo.6778109)
+
 
 Figure number: Figure 3.18
 From the IPCC Working Group I Contribution to the Sixth Assessment Report: Chapter 3
